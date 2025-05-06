@@ -46,13 +46,13 @@ node src/cli.js
 * Uses: `src/test/public_holidays.json` & `src/test/weather_stats.json`
 * Env: `RECIPENT_TEST_STATIC_EMAIL`
 * Sends to test recipient with mock data.
-
+* Sends Static .json Email Report to: matko.popaj@gmail.com
 ### 🚀 Production Email
 
 * Fetches: Live data from Weather & Holidays APIs
 * Env: `RECIPIENT_EMAIL`
 * Sends to configured prod email (e.g., `david@opskings.com`)
-
+* Sends Dynamic LIVE API data Email Report to: david@opskings.com
 ---
 
 ## 📂 Project Structure
