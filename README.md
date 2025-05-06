@@ -1,4 +1,4 @@
-# 🌦️ OPSKINGS Weather Report Emailer
+# 🌦️ OPSKINGS Weather Report Emailer 🌦️
 
 A CLI-based Node.js tool that sends HTML weather reports via Gmail,
 using either test data or live API data.
@@ -23,7 +23,7 @@ npm install
 
 ---
 
-## 🖥️ Run the CLI
+## Run the CLI
 
 ```bash
 node src/cli.js
@@ -41,7 +41,7 @@ node src/cli.js
 
 ## ✉️ Email Modes
 
-### 🧪 Test Email
+### Test Email
 
 * Uses: `src/test/public_holidays.json` & `src/test/weather_stats.json`
 * Env: `RECIPENT_TEST_STATIC_EMAIL`
@@ -75,8 +75,6 @@ src/
 
 ---
 
-## 📤 Email Setup
-
 ### Example `.env`
 
 ```env
@@ -95,7 +93,7 @@ APP_PASSWORD_GMAIL=your_app_password
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. CLI prompts user for email type
 2. Fetches data (API or test files)
@@ -114,9 +112,45 @@ APP_PASSWORD_GMAIL=your_app_password
 | `inquirer`   | Interactive CLI prompts             |
 | `dotenv`     | Load `.env` configuration           |
 
+## 📎 Attachment Overview: `weather_stats.json`
+
+| Property       | Value |
+| -------------- | ----- |
+| Type           | Array |
+| Depth          | 2     |
+| Nested objects | ✔     |
+| Nested arrays  | ✔     |
+
+**Data Summary:**
+
+| Type     | Count |
+| -------- | ----- |
+| Objects  | 30    |
+| Arrays   | 5     |
+| Strings  | 103   |
+| Numbers  | 30    |
+| Booleans | 30    |
+| Nulls    | 26    |
+| Keys     | 180   |
+| `true`   | 6     |
+| `false`  | 24    |
+
+### Development Platforms
+
+* [GitHub](https://github.com/)
+* [DeepSeek](https://deepseek.com/)
+
+### Development Tools
+
+* [JSON Formatter](https://jsonformatter.org/)
+* [JSON Object Count](https://onlinetools.com/json/analyze-json)
+* Node.js
+* npm
+* Git
+* JS
+* Html
+* VScode
+
 ## 👨‍💻 Author
 
-**MP** — Built with ❤️ in 2025
-[GitHub](https://github.com/your-username)
-
----
+**MP** 2025
