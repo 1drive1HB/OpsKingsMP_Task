@@ -1,0 +1,15 @@
+check task for - must add useful comments? 
+
+1. Iterations and aggregations
+2. Inline functions
+3. Data lookups
+4. Data structures
+5. Error handling
+6. Troubleshooting
+
+Requirements from PDF: 
+Weather API (https://hook.eu2.make.com/7mfiayunbpfef8qlnielxli5ptoktz02)
+Public Holidays API (https://hook.eu2.make.com/76g53ebwgbestjsj1ikejbaicpnc5jro)
+
+--- make first taste case with .json objects
+

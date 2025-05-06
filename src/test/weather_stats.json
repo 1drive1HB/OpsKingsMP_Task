@@ -1,0 +1,212 @@
+[
+    {
+      "sky": "rainy",
+      "city": "San Francisco",
+      "date": "2022-11-01",
+      "degrees_in_celsius": 10,
+      "times_of_rain_showers": "08:12, 17:58"
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-02",
+      "degrees_in_celsius": 5,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "very cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-03",
+      "degrees_in_celsius": 9,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "foggy",
+      "city": "San Francisco",
+      "date": "2022-11-04",
+      "degrees_in_celsius": 5,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "very cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-05",
+      "degrees_in_celsius": 7,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "foggy",
+      "city": "San Francisco",
+      "date": "2022-11-06",
+      "degrees_in_celsius": 6,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-07",
+      "degrees_in_celsius": 5,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-08",
+      "degrees_in_celsius": 5,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "rainy",
+      "city": "San Francisco",
+      "date": "2022-11-09",
+      "degrees_in_celsius": 5,
+      "times_of_rain_showers": "10:00"
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-10",
+      "degrees_in_celsius": 4,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-11",
+      "degrees_in_celsius": 3,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-12",
+      "degrees_in_celsius": 2,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-13",
+      "degrees_in_celsius": 0,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "very cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-14",
+      "degrees_in_celsius": 2,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "very cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-15",
+      "degrees_in_celsius": 3,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "very cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-16",
+      "degrees_in_celsius": 4,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-17",
+      "degrees_in_celsius": 6,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-18",
+      "degrees_in_celsius": 9,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-19",
+      "degrees_in_celsius": 8,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "foggy",
+      "city": "San Francisco",
+      "date": "2022-11-20",
+      "degrees_in_celsius": 10,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-21",
+      "degrees_in_celsius": 11,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-22",
+      "degrees_in_celsius": 11,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-23",
+      "degrees_in_celsius": 9,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-24",
+      "degrees_in_celsius": 8,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-25",
+      "degrees_in_celsius": 8,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "rainy",
+      "city": "San Francisco",
+      "date": "2022-11-26",
+      "degrees_in_celsius": 7,
+      "times_of_rain_showers": "02:00, 11:00, 15:00"
+    },
+    {
+      "sky": "very cloudy",
+      "city": "San Francisco",
+      "date": "2022-11-27",
+      "degrees_in_celsius": 7,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "rainy",
+      "city": "San Francisco",
+      "date": "2022-11-28",
+      "degrees_in_celsius": 5,
+      "times_of_rain_showers": "08:00, 09:30, 14:15, 18:20, 19:15, 21:17, 23:05"
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-29",
+      "degrees_in_celsius": 4,
+      "times_of_rain_showers": null
+    },
+    {
+      "sky": "sunny",
+      "city": "San Francisco",
+      "date": "2022-11-30",
+      "degrees_in_celsius": 2,
+      "times_of_rain_showers": null
+    }
+  ]

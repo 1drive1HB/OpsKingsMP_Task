@@ -1,0 +1,6 @@
+-- found some note modules for mail sending, with 
+nodemailer - email sending module 
+inquirer - za CLI prompt
+
+-- first test with .json object -> after it test with provided APIs live
+
