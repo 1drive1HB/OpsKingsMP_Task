@@ -5,6 +5,7 @@ const { handleTestEmail, handleProductionEmail } = require('./services/email');
 
 async function main() {
   try {
+    // Interactive prompt
     const answers = await inquirer.prompt([
       {
         type: 'list',
@@ -18,6 +19,7 @@ async function main() {
       }
     ]);
 
+    // Execute selected action
     switch (answers.action) {
       case 'test':
         await handleTestEmail();
@@ -26,11 +28,21 @@ async function main() {
         await handleProductionEmail();
         break;
       case 'exit':
-        process.exit(0); 
+        process.exit(0); // Graceful exit
     }
   } catch (error) {
-    console.error('❌ Error:', error.message); // add delay and clear Host
+    console.error('❌ Error:', error.message); 
+  } finally {
+    // Auto-restart unless --no-loop flag is present
+    if (process.argv[2] !== '--no-loop') {
+      setTimeout(() => {
+        console.clear(); // Reset console for clean UX
+        main();
+      }, 10000); // 10-second delay before restart - bolji UI
+    }
   }
 }
 
-main().catch(console.error);
+// main().catch(console.error);
+// Start the application
+main();

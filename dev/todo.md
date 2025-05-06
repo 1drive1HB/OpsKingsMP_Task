@@ -1,16 +1,10 @@
-Subject Line:
+-- tested with bad city (like SSan Francisco)
+-- good error hndl
 
-fix subject line datetime
+-- logs added for api.js 
 
-fix: "Sky" statuses during holidays:
+-- add log DIR+File For Action Logs And Logging Errors???
 
-fix for Upper Case --> skyCounts.toUpper()
+-- delete test.js + other .txt helper files for task
 
-remove unnececary <br> tags
-
-async function generateEmailContent(data) {
-add and fix function() 
-
-add log for live cli 
-
-better README.MD    , AND FIX FOR github Markup View!!!!
+-- make full README.md FOR GitHub
