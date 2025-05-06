@@ -2,7 +2,7 @@
 
 function formatDate(date) {
   const d = new Date(date);
-  d.setHours(d.getHours() + 2); // Temporary UTC+2 adjustment (demo only)
+  d.setHours(d.getHours() + 2); // Temporary UTC+2 adjustment
   return d.toISOString().replace('T', ' ').slice(0, 19); // "YYYY-MM-DD HH:MM:SS"
 }
 
