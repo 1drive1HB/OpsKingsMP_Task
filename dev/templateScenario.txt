@@ -1,0 +1,20 @@
+### scenario URL: {YOUR_SCENARIO_URL_HERE} ###
+Hi,
+
+here are your San Francisco weather stats for 2022-11:
+The max temperature was: {DYNAMICALLY_GENERATED_NUMBER_HERE}
+The avg temperature was: {DYNAMICALLY_GENERATED_NUMBER_HERE}
+The min temperature was: {DYNAMICALLY_GENERATED_NUMBER_HERE}
+
+Overview of unique "sky" values and their counts:
+{DYNAMICALLY_GENERATED_TEXT_HERE}
+
+Rain showers:
+{DYNAMICALLY_GENERATED_TEXT_HERE}
+
+"Sky" statuses during holidays:
+{DYNAMICALLY_GENERATED_TEXT_HERE}
+
+Have a nice day!
+
+-- attachment weather_stats.json 

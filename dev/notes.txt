@@ -4,3 +4,22 @@ inquirer - za CLI prompt
 
 -- first test with .json object -> after it test with provided APIs live
 
+### scenario URL: null ###
+
+Hi,
+
+here are your San Fransicso weather stats for 2022-11:
+
+Overview of unique "sky" values and their counts:
+- sky sorted by asc
+- first letter is Upper
+
+Rain showers:
+- One row For each time. 
+
+"Sky" statuses during holidays:
+public holiday by dates from the public_holiday LOOK for -> "sky" value
+
+Have a nice Day!
+
+- attachment.json 
